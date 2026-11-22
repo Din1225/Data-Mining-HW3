@@ -3,6 +3,7 @@
 /data/*
 !/data/SHA256SUMS
 /results/
+/eda/.mplconfig/
 __pycache__/
 *.py[cod]
 .DS_Store

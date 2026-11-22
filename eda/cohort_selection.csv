@@ -1,0 +1,4 @@
+origin,end,published_recipes,prior_users,prior_likes,users_with_5_likes,eligible_with_future_like,evaluated_users,evaluated_share_of_eligible,median_prior_likes_evaluated,median_prior_likes_other_eligible
+2013-01-01,2016-01-01,225809,138862,871052,19258,4106,4031,0.20931560909751792,20.0,10.0
+2016-01-01,2019-01-01,230956,179730,956629,20289,1490,1480,0.07294593129281877,24.0,10.0
+2018-01-01,2019-01-01,231448,210946,988454,20631,535,532,0.02578643788473656,30.5,10.0
