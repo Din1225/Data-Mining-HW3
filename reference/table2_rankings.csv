@@ -1,0 +1,29 @@
+origin,method,hits,hit_rate_pct,ndcg_at_10,distinct_recipes
+2016-01-01,All-time popularity,20,1.35,0.00599,34
+2016-01-01,Two-year popularity,30,2.03,0.01161,26
+2016-01-01,Equal-weight ingredients + popularity,30,2.03,0.01046,74
+2016-01-01,Rarity-weighted ingredients + popularity,25,1.69,0.00931,37
+2016-01-01,ALS,26,1.76,0.00825,399
+2016-01-01,ALS + popularity,33,2.23,0.01084,98
+2016-01-01,Joint author ALS + popularity (unit strength),30,2.03,0.00915,91
+2016-01-01,Title profile + popularity,27,1.82,0.00887,439
+2016-01-01,Full-card profile + popularity,27,1.82,0.00968,355
+2016-01-01,Card graph + popularity,25,1.69,0.00920,122
+2016-01-01,Two-view graph,22,1.49,0.00762,405
+2016-01-01,"Graph + popularity, fixed share",27,1.82,0.00916,117
+2016-01-01,"Graph + popularity, adaptive share",27,1.82,0.00910,124
+2016-01-01,Adaptive graph + familiar author,26,1.76,0.00892,126
+2018-01-01,All-time popularity,4,0.75,0.00288,27
+2018-01-01,Two-year popularity,9,1.69,0.00790,21
+2018-01-01,Equal-weight ingredients + popularity,5,0.94,0.00523,55
+2018-01-01,Rarity-weighted ingredients + popularity,5,0.94,0.00511,33
+2018-01-01,ALS,4,0.75,0.00299,278
+2018-01-01,ALS + popularity,9,1.69,0.00798,79
+2018-01-01,Joint author ALS + popularity (unit strength),8,1.50,0.00752,85
+2018-01-01,Title profile + popularity,7,1.32,0.00552,365
+2018-01-01,Full-card profile + popularity,9,1.69,0.00956,282
+2018-01-01,Card graph + popularity,10,1.88,0.00950,109
+2018-01-01,Two-view graph,5,0.94,0.00382,257
+2018-01-01,"Graph + popularity, fixed share",6,1.13,0.00433,95
+2018-01-01,"Graph + popularity, adaptive share",8,1.50,0.00545,95
+2018-01-01,Adaptive graph + familiar author,8,1.50,0.00546,98

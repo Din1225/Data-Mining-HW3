@@ -1,0 +1,43 @@
+origin,case,method,user_id,target_id,target_name,target_rank
+2016-01-01,A,All-time popularity,2194917,66121,Mongolian Beef,33
+2016-01-01,B,All-time popularity,176615,99476,Beef and Broccoli Stir Fry,11
+2016-01-01,C,All-time popularity,572108,28148,Chicken Chimichangas,11
+2016-01-01,A,Two-year popularity,2194917,66121,Mongolian Beef,29
+2016-01-01,B,Two-year popularity,176615,99476,Beef and Broccoli Stir Fry,7
+2016-01-01,C,Two-year popularity,572108,28148,Chicken Chimichangas,37
+2016-01-01,A,Equal-weight ingredients + popularity,2194917,66121,Mongolian Beef,70
+2016-01-01,B,Equal-weight ingredients + popularity,176615,99476,Beef and Broccoli Stir Fry,13
+2016-01-01,C,Equal-weight ingredients + popularity,572108,28148,Chicken Chimichangas,72
+2016-01-01,A,Rarity-weighted ingredients + popularity,2194917,66121,Mongolian Beef,36
+2016-01-01,B,Rarity-weighted ingredients + popularity,176615,99476,Beef and Broccoli Stir Fry,10
+2016-01-01,C,Rarity-weighted ingredients + popularity,572108,28148,Chicken Chimichangas,15
+2016-01-01,A,ALS,2194917,66121,Mongolian Beef,19224
+2016-01-01,B,ALS,176615,99476,Beef and Broccoli Stir Fry,228579
+2016-01-01,C,ALS,572108,28148,Chicken Chimichangas,3
+2016-01-01,A,ALS + popularity,2194917,66121,Mongolian Beef,36
+2016-01-01,B,ALS + popularity,176615,99476,Beef and Broccoli Stir Fry,24
+2016-01-01,C,ALS + popularity,572108,28148,Chicken Chimichangas,7
+2016-01-01,A,Joint author ALS + popularity (unit strength),2194917,66121,Mongolian Beef,34
+2016-01-01,B,Joint author ALS + popularity (unit strength),176615,99476,Beef and Broccoli Stir Fry,12
+2016-01-01,C,Joint author ALS + popularity (unit strength),572108,28148,Chicken Chimichangas,24
+2016-01-01,A,Title profile + popularity,2194917,66121,Mongolian Beef,3
+2016-01-01,B,Title profile + popularity,176615,99476,Beef and Broccoli Stir Fry,4
+2016-01-01,C,Title profile + popularity,572108,28148,Chicken Chimichangas,33
+2016-01-01,A,Full-card profile + popularity,2194917,66121,Mongolian Beef,1
+2016-01-01,B,Full-card profile + popularity,176615,99476,Beef and Broccoli Stir Fry,5
+2016-01-01,C,Full-card profile + popularity,572108,28148,Chicken Chimichangas,13
+2016-01-01,A,Card graph + popularity,2194917,66121,Mongolian Beef,1
+2016-01-01,B,Card graph + popularity,176615,99476,Beef and Broccoli Stir Fry,59
+2016-01-01,C,Card graph + popularity,572108,28148,Chicken Chimichangas,19
+2016-01-01,A,Two-view graph,2194917,66121,Mongolian Beef,5
+2016-01-01,B,Two-view graph,176615,99476,Beef and Broccoli Stir Fry,20
+2016-01-01,C,Two-view graph,572108,28148,Chicken Chimichangas,7
+2016-01-01,A,"Graph + popularity, fixed share",2194917,66121,Mongolian Beef,9
+2016-01-01,B,"Graph + popularity, fixed share",176615,99476,Beef and Broccoli Stir Fry,9
+2016-01-01,C,"Graph + popularity, fixed share",572108,28148,Chicken Chimichangas,13
+2016-01-01,A,"Graph + popularity, adaptive share",2194917,66121,Mongolian Beef,9
+2016-01-01,B,"Graph + popularity, adaptive share",176615,99476,Beef and Broccoli Stir Fry,9
+2016-01-01,C,"Graph + popularity, adaptive share",572108,28148,Chicken Chimichangas,10
+2016-01-01,A,Adaptive graph + familiar author,2194917,66121,Mongolian Beef,9
+2016-01-01,B,Adaptive graph + familiar author,176615,99476,Beef and Broccoli Stir Fry,7
+2016-01-01,C,Adaptive graph + familiar author,572108,28148,Chicken Chimichangas,11
