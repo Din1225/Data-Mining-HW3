@@ -1,0 +1,9 @@
+metric,value
+2016_catalog_recipes,230956.0
+2016_prior_positive_ratings,956629.0
+2016_users_with_prior_likes,149398.0
+2016_recipes_without_prior_likes,16248.0
+2016_recipes_with_at_most_one_prior_like,106314.0
+2016_median_likes_per_active_user,1.0
+2016_median_likes_per_recipe,2.0
+2016_top_1pct_recipes_share_of_likes,0.22894873561223839

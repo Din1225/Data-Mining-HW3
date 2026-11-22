@@ -1,0 +1,11 @@
+metric,value
+raw_recipes,231637
+raw_interactions,1132367
+missing_used_fields,0
+duplicate_recipe_ids,0
+duplicate_user_recipe_pairs,0
+unknown_recipe_ids,0
+invalid_ratings,0
+invalid_dates,0
+reviews_before_recipe_submission,1246
+clean_interactions,1131121
