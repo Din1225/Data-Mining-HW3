@@ -1,0 +1,10 @@
+component,offline_s,per_user_ms,scope
+"MiniLM encoding of every recipe card and title (one-off, shared by all text and graph methods)",790.6,,"card 684.0 s + title 106.6 s, 231,637 recipes"
+Popularity windows,0.08239112101728097,0.005877023795619607,median single-user ranking
+"Popularity, user-kNN and ingredient profiles (run.py, all together)",10.248189965961501,20.135662091913243,"average over 1480 test users, all run.py scorers together"
+ALS (and ALS + popularity),18.30280261702137,2.7657815175779112,fit; batch ranking average
+Joint author ALS (unit strength),21.673353919002693,2.1791694675591096,fit; batch scoring average
+"Card graph: build graph, project cards, propagate (no training)",5.59230670199031,7.114625012036413,median warm single-user scoring incl. top-10
+Learned IDs (BPR + alignment training),69.83210832299665,11.04622453567572,per-user time is for the two-view score
+"Graph + popularity, adaptive share",,11.792133504059166,median warm single-user scoring incl. top-10
+Main method (adds the familiar-author bonus),,13.028576999204233,median over 200 single-user requests

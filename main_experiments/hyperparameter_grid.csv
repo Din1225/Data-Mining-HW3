@@ -1,0 +1,163 @@
+family,setting,validation_ndcg_at_10,selected
+Popularity half-life,half_life=180,0.006823812264491078,False
+Popularity half-life,half_life=730,0.008261460912637224,False
+Popularity half-life,half_life=all,0.008923155490803835,True
+Ingredients + popularity,"pop_weight=0.0, ingredient_weight=0.0, encoding=weighted",0.0054337072824292,False
+Ingredients + popularity,"pop_weight=0.0, ingredient_weight=0.0, encoding=raw",0.0054337072824292,False
+Ingredients + popularity,"pop_weight=0.0, ingredient_weight=0.1, encoding=weighted",0.005479419032647,False
+Ingredients + popularity,"pop_weight=0.0, ingredient_weight=0.1, encoding=raw",0.0053903871148868,False
+Ingredients + popularity,"pop_weight=0.0, ingredient_weight=0.2, encoding=weighted",0.0053848524992634,False
+Ingredients + popularity,"pop_weight=0.0, ingredient_weight=0.2, encoding=raw",0.0054282643828717,False
+Ingredients + popularity,"pop_weight=0.0, ingredient_weight=0.35, encoding=weighted",0.0054900581613846,False
+Ingredients + popularity,"pop_weight=0.0, ingredient_weight=0.35, encoding=raw",0.0051632334584831,False
+Ingredients + popularity,"pop_weight=0.0, ingredient_weight=0.5, encoding=weighted",0.0051273890582575,False
+Ingredients + popularity,"pop_weight=0.0, ingredient_weight=0.5, encoding=raw",0.0042953940865613,False
+Ingredients + popularity,"pop_weight=0.0, ingredient_weight=0.65, encoding=weighted",0.0044586243445799,False
+Ingredients + popularity,"pop_weight=0.0, ingredient_weight=0.65, encoding=raw",0.0040574081176976,False
+Ingredients + popularity,"pop_weight=0.15, ingredient_weight=0.0, encoding=weighted",0.0064915821777721,False
+Ingredients + popularity,"pop_weight=0.15, ingredient_weight=0.0, encoding=raw",0.0064915821777721,False
+Ingredients + popularity,"pop_weight=0.15, ingredient_weight=0.1, encoding=weighted",0.0061433574967939,False
+Ingredients + popularity,"pop_weight=0.15, ingredient_weight=0.1, encoding=raw",0.0059676000927632,False
+Ingredients + popularity,"pop_weight=0.15, ingredient_weight=0.2, encoding=weighted",0.0059947754955716,False
+Ingredients + popularity,"pop_weight=0.15, ingredient_weight=0.2, encoding=raw",0.0062271530520717,False
+Ingredients + popularity,"pop_weight=0.15, ingredient_weight=0.35, encoding=weighted",0.0058673960834058,False
+Ingredients + popularity,"pop_weight=0.15, ingredient_weight=0.35, encoding=raw",0.0053490784685933,False
+Ingredients + popularity,"pop_weight=0.15, ingredient_weight=0.5, encoding=weighted",0.0053494925234552,False
+Ingredients + popularity,"pop_weight=0.15, ingredient_weight=0.5, encoding=raw",0.0044181697519127,False
+Ingredients + popularity,"pop_weight=0.15, ingredient_weight=0.65, encoding=weighted",0.0047714671283539,False
+Ingredients + popularity,"pop_weight=0.15, ingredient_weight=0.65, encoding=raw",0.0044263118748144,False
+Ingredients + popularity,"pop_weight=0.35, ingredient_weight=0.0, encoding=weighted",0.0069551348415028,False
+Ingredients + popularity,"pop_weight=0.35, ingredient_weight=0.0, encoding=raw",0.0069551348415028,False
+Ingredients + popularity,"pop_weight=0.35, ingredient_weight=0.1, encoding=weighted",0.0069029649388635,False
+Ingredients + popularity,"pop_weight=0.35, ingredient_weight=0.1, encoding=raw",0.0067603719175122,False
+Ingredients + popularity,"pop_weight=0.35, ingredient_weight=0.2, encoding=weighted",0.006642996554027,False
+Ingredients + popularity,"pop_weight=0.35, ingredient_weight=0.2, encoding=raw",0.0064384601845846,False
+Ingredients + popularity,"pop_weight=0.35, ingredient_weight=0.35, encoding=weighted",0.0062447984047899,False
+Ingredients + popularity,"pop_weight=0.35, ingredient_weight=0.35, encoding=raw",0.0057013240549545,False
+Ingredients + popularity,"pop_weight=0.35, ingredient_weight=0.5, encoding=weighted",0.0056997052440342,False
+Ingredients + popularity,"pop_weight=0.35, ingredient_weight=0.5, encoding=raw",0.0052060283920921,False
+Ingredients + popularity,"pop_weight=0.35, ingredient_weight=0.65, encoding=weighted",0.0048382555738573,False
+Ingredients + popularity,"pop_weight=0.35, ingredient_weight=0.65, encoding=raw",0.0048289860144848,False
+Ingredients + popularity,"pop_weight=0.55, ingredient_weight=0.0, encoding=weighted",0.007445846338394,False
+Ingredients + popularity,"pop_weight=0.55, ingredient_weight=0.0, encoding=raw",0.007445846338394,False
+Ingredients + popularity,"pop_weight=0.55, ingredient_weight=0.1, encoding=weighted",0.0070753628842776,False
+Ingredients + popularity,"pop_weight=0.55, ingredient_weight=0.1, encoding=raw",0.0069990100082229,False
+Ingredients + popularity,"pop_weight=0.55, ingredient_weight=0.2, encoding=weighted",0.0069559831671782,False
+Ingredients + popularity,"pop_weight=0.55, ingredient_weight=0.2, encoding=raw",0.0067496086862488,False
+Ingredients + popularity,"pop_weight=0.55, ingredient_weight=0.35, encoding=weighted",0.0066680129832296,False
+Ingredients + popularity,"pop_weight=0.55, ingredient_weight=0.35, encoding=raw",0.0059208982028345,False
+Ingredients + popularity,"pop_weight=0.55, ingredient_weight=0.5, encoding=weighted",0.0064489347990528,False
+Ingredients + popularity,"pop_weight=0.55, ingredient_weight=0.5, encoding=raw",0.0059521662454065,False
+Ingredients + popularity,"pop_weight=0.55, ingredient_weight=0.65, encoding=weighted",0.0060094657103111,False
+Ingredients + popularity,"pop_weight=0.55, ingredient_weight=0.65, encoding=raw",0.0055842688302653,False
+Ingredients + popularity,"pop_weight=0.75, ingredient_weight=0.0, encoding=weighted",0.0084293765797473,False
+Ingredients + popularity,"pop_weight=0.75, ingredient_weight=0.0, encoding=raw",0.0084293765797473,False
+Ingredients + popularity,"pop_weight=0.75, ingredient_weight=0.1, encoding=weighted",0.0084090371944403,False
+Ingredients + popularity,"pop_weight=0.75, ingredient_weight=0.1, encoding=raw",0.008136120115231,False
+Ingredients + popularity,"pop_weight=0.75, ingredient_weight=0.2, encoding=weighted",0.0085611281865978,False
+Ingredients + popularity,"pop_weight=0.75, ingredient_weight=0.2, encoding=raw",0.0083574210676449,False
+Ingredients + popularity,"pop_weight=0.75, ingredient_weight=0.35, encoding=weighted",0.0084157195686165,False
+Ingredients + popularity,"pop_weight=0.75, ingredient_weight=0.35, encoding=raw",0.0072810800234117,False
+Ingredients + popularity,"pop_weight=0.75, ingredient_weight=0.5, encoding=weighted",0.0078274258202076,False
+Ingredients + popularity,"pop_weight=0.75, ingredient_weight=0.5, encoding=raw",0.0073681681677132,False
+Ingredients + popularity,"pop_weight=0.75, ingredient_weight=0.65, encoding=weighted",0.0066032677129318,False
+Ingredients + popularity,"pop_weight=0.75, ingredient_weight=0.65, encoding=raw",0.0053105565141057,False
+Ingredients + popularity,"pop_weight=1.0, ingredient_weight=0.0, encoding=weighted",0.0089231554908038,False
+Ingredients + popularity,"pop_weight=1.0, ingredient_weight=0.0, encoding=raw",0.0089231554908038,False
+Ingredients + popularity,"pop_weight=1.0, ingredient_weight=0.1, encoding=weighted",0.0092810003207992,False
+Ingredients + popularity,"pop_weight=1.0, ingredient_weight=0.1, encoding=raw",0.0092749463289616,False
+Ingredients + popularity,"pop_weight=1.0, ingredient_weight=0.2, encoding=weighted",0.0095509484596962,True
+Ingredients + popularity,"pop_weight=1.0, ingredient_weight=0.2, encoding=raw",0.0090981432924232,False
+Ingredients + popularity,"pop_weight=1.0, ingredient_weight=0.35, encoding=weighted",0.0092799903211044,False
+Ingredients + popularity,"pop_weight=1.0, ingredient_weight=0.35, encoding=raw",0.0093546918163664,True
+Ingredients + popularity,"pop_weight=1.0, ingredient_weight=0.5, encoding=weighted",0.0085962918916469,False
+Ingredients + popularity,"pop_weight=1.0, ingredient_weight=0.5, encoding=raw",0.007713098947407,False
+Ingredients + popularity,"pop_weight=1.0, ingredient_weight=0.65, encoding=weighted",0.0062530277447868,False
+Ingredients + popularity,"pop_weight=1.0, ingredient_weight=0.65, encoding=raw",0.0052702309368944,False
+ALS,"factors=32, confidence=5, prior=all, prior_share=0.0",0.0098929575398425,False
+ALS,"factors=32, confidence=5, prior=all, prior_share=0.1",0.0098769881325566,False
+ALS,"factors=32, confidence=5, prior=all, prior_share=0.25",0.0097403958581276,False
+ALS,"factors=32, confidence=5, prior=all, prior_share=0.5",0.0099291037132878,False
+ALS,"factors=32, confidence=5, prior=all, prior_share=0.75",0.0102340999130469,False
+ALS,"factors=32, confidence=5, prior=730, prior_share=0.1",0.0100425515261642,False
+ALS,"factors=32, confidence=5, prior=730, prior_share=0.25",0.0099168430480793,False
+ALS,"factors=32, confidence=5, prior=730, prior_share=0.5",0.0099288083598036,False
+ALS,"factors=32, confidence=5, prior=730, prior_share=0.75",0.0105916442186959,False
+ALS,"factors=32, confidence=30, prior=all, prior_share=0.0",0.0089727728545441,False
+ALS,"factors=32, confidence=30, prior=all, prior_share=0.1",0.0090587802435047,False
+ALS,"factors=32, confidence=30, prior=all, prior_share=0.25",0.0093346882453734,False
+ALS,"factors=32, confidence=30, prior=all, prior_share=0.5",0.0093550261730524,False
+ALS,"factors=32, confidence=30, prior=all, prior_share=0.75",0.0096972852747529,False
+ALS,"factors=32, confidence=30, prior=730, prior_share=0.1",0.0091155974939325,False
+ALS,"factors=32, confidence=30, prior=730, prior_share=0.25",0.0094585119540554,False
+ALS,"factors=32, confidence=30, prior=730, prior_share=0.5",0.0098907481684139,False
+ALS,"factors=32, confidence=30, prior=730, prior_share=0.75",0.0100283891046181,False
+ALS,"factors=64, confidence=5, prior=all, prior_share=0.0",0.009978160915055,True
+ALS,"factors=64, confidence=5, prior=all, prior_share=0.1",0.010146312699173,False
+ALS,"factors=64, confidence=5, prior=all, prior_share=0.25",0.0101646597054193,False
+ALS,"factors=64, confidence=5, prior=all, prior_share=0.5",0.0106626508249833,False
+ALS,"factors=64, confidence=5, prior=all, prior_share=0.75",0.0104170340546415,False
+ALS,"factors=64, confidence=5, prior=730, prior_share=0.1",0.0101608040803435,False
+ALS,"factors=64, confidence=5, prior=730, prior_share=0.25",0.0103934984327393,False
+ALS,"factors=64, confidence=5, prior=730, prior_share=0.5",0.0107258121984393,False
+ALS,"factors=64, confidence=5, prior=730, prior_share=0.75",0.0113775894919276,True
+ALS,"factors=64, confidence=30, prior=all, prior_share=0.0",0.0072258531777475,False
+ALS,"factors=64, confidence=30, prior=all, prior_share=0.1",0.0073536420241029,False
+ALS,"factors=64, confidence=30, prior=all, prior_share=0.25",0.0074865149000023,False
+ALS,"factors=64, confidence=30, prior=all, prior_share=0.5",0.0082748406312044,False
+ALS,"factors=64, confidence=30, prior=all, prior_share=0.75",0.008564639359708,False
+ALS,"factors=64, confidence=30, prior=730, prior_share=0.1",0.0073987689942084,False
+ALS,"factors=64, confidence=30, prior=730, prior_share=0.25",0.0075953502969938,False
+ALS,"factors=64, confidence=30, prior=730, prior_share=0.5",0.0084880799019892,False
+ALS,"factors=64, confidence=30, prior=730, prior_share=0.75",0.0085480719715973,False
+Graph + popularity (fixed),"prior=all, weight=0.0",0.0089231554908038,False
+Graph + popularity (fixed),"prior=all, weight=0.1",0.0088604127916296,False
+Graph + popularity (fixed),"prior=all, weight=0.25",0.0094642091888265,False
+Graph + popularity (fixed),"prior=all, weight=0.5",0.0092005211297036,False
+Graph + popularity (fixed),"prior=all, weight=0.75",0.0093613274244279,False
+Graph + popularity (fixed),"prior=all, weight=1.0",0.0096651358005867,False
+Graph + popularity (fixed),"prior=730, weight=0.0",0.0082614609126372,False
+Graph + popularity (fixed),"prior=730, weight=0.1",0.0086814228207599,False
+Graph + popularity (fixed),"prior=730, weight=0.25",0.0095747966133801,False
+Graph + popularity (fixed),"prior=730, weight=0.5",0.0096857068552429,True
+Graph + popularity (fixed),"prior=730, weight=0.75",0.0095747153171427,False
+Graph + popularity (fixed),"prior=730, weight=1.0",0.0096651358005867,False
+Graph + popularity (fixed),"prior=180, weight=0.0",0.006823812264491,False
+Graph + popularity (fixed),"prior=180, weight=0.1",0.0065910918520184,False
+Graph + popularity (fixed),"prior=180, weight=0.25",0.0083451569358695,False
+Graph + popularity (fixed),"prior=180, weight=0.5",0.0095147464966709,False
+Graph + popularity (fixed),"prior=180, weight=0.75",0.0095804099166459,False
+Graph + popularity (fixed),"prior=180, weight=1.0",0.0096651358005867,False
+Graph + popularity (adaptive),"prior=all, weight=0.0",0.0089231554908038,False
+Graph + popularity (adaptive),"prior=all, weight=0.1",0.009071853558136,False
+Graph + popularity (adaptive),"prior=all, weight=0.25",0.0093827727542366,False
+Graph + popularity (adaptive),"prior=all, weight=0.5",0.0095235955992709,False
+Graph + popularity (adaptive),"prior=all, weight=0.75",0.0095199811652821,False
+Graph + popularity (adaptive),"prior=all, weight=1.0",0.0096651358005867,False
+Graph + popularity (adaptive),"prior=730, weight=0.0",0.0082614609126372,False
+Graph + popularity (adaptive),"prior=730, weight=0.1",0.0087987024601104,False
+Graph + popularity (adaptive),"prior=730, weight=0.25",0.0095015453366283,False
+Graph + popularity (adaptive),"prior=730, weight=0.5",0.0099187265588788,True
+Graph + popularity (adaptive),"prior=730, weight=0.75",0.0096487943175279,False
+Graph + popularity (adaptive),"prior=730, weight=1.0",0.0096651358005867,False
+Graph + popularity (adaptive),"prior=180, weight=0.0",0.006823812264491,False
+Graph + popularity (adaptive),"prior=180, weight=0.1",0.0067510818987851,False
+Graph + popularity (adaptive),"prior=180, weight=0.25",0.0079909241371068,False
+Graph + popularity (adaptive),"prior=180, weight=0.5",0.0094593894146656,False
+Graph + popularity (adaptive),"prior=180, weight=0.75",0.0097728123214138,False
+Graph + popularity (adaptive),"prior=180, weight=1.0",0.0096651358005867,False
+Familiar-author bonus,bonus=0.0,0.009918726558878857,False
+Familiar-author bonus,bonus=0.025,0.009984487491888357,False
+Familiar-author bonus,bonus=0.05,0.00999814838938619,True
+Familiar-author bonus,bonus=0.1,0.009804893553657943,False
+Familiar-author bonus,bonus=0.2,0.009458635160244882,False
+Familiar-author bonus,bonus=0.4,0.009050861075568184,False
+Joint author ALS,strength=0.0,0.0113775894919276,True
+Joint author ALS,strength=0.25,0.0084326933791973,False
+Joint author ALS,strength=1.0,0.0085174591292803,False
+Joint author ALS,strength=4.0,0.0077952731312519,False
+Graph + ALS fusion,als_share=0.0,0.0099187265588788,False
+Graph + ALS fusion,als_share=0.25,0.0107999626619454,False
+Graph + ALS fusion,als_share=0.5,0.0109117323094963,False
+Graph + ALS fusion,als_share=0.75,0.0110206539382164,False
+Graph + ALS fusion,als_share=1.0,0.0113775894919276,True

@@ -1,0 +1,25 @@
+key,method,family,source,in_main_table,in_ablation
+alltime,All-time popularity,Non-personalised,creator_paths/{split}_controls_queries.csv / _top10.csv,True,False
+two_year,Two-year popularity (730-day half-life),Non-personalised,creator_paths/{split}_controls_queries.csv / _top10.csv,True,True
+neighbors,User-kNN (80 neighbours),Collaborative filtering,{split}_queries.csv / _top10.csv,True,False
+als,ALS,Collaborative filtering,comparison/{split}_als_queries.csv / _top10.csv,True,False
+als_blend,ALS + popularity,Collaborative filtering,comparison/{split}_als_queries.csv / _top10.csv,True,False
+unit_author_als,Joint author ALS + popularity (unit strength),Collaborative filtering,author_als/{split}_queries.csv / _top10.csv,True,False
+ingredients_equal,Equal-weight ingredients + popularity,Content + popularity,creator_paths/{split}_controls_queries.csv / _top10.csv,True,False
+ingredients_idf,Rarity-weighted ingredients + popularity,Content + popularity,creator_paths/{split}_controls_queries.csv / _top10.csv,True,False
+adaptive_title,Title profile + popularity,Content + popularity,semantic_graph/{split}_queries.csv / _top10.csv,True,True
+adaptive_card,Full-card profile + popularity,Content + popularity,semantic_graph/{split}_queries.csv / _top10.csv,True,True
+adaptive_nolearn,Card graph + popularity,Semantic graph,semantic_graph/{split}_queries.csv / _top10.csv,True,True
+two_view,Two-view graph,Semantic graph,semantic_graph/{split}_queries.csv / _top10.csv,True,True
+fixed,"Graph + popularity, fixed share",Semantic graph,semantic_graph/{split}_queries.csv / _top10.csv,True,True
+adaptive,"Graph + popularity, adaptive share",Semantic graph,semantic_graph/{split}_queries.csv / _top10.csv,True,True
+fusion,Graph + ALS fusion,Ensemble,graph_fusion/{split}_queries.csv / _top10.csv,True,False
+adaptive_graph_creator,Adaptive graph + familiar author (main),Main method,creator_paths/{split}_graph_queries.csv / _top10.csv,True,True
+adaptive_notext,Learned IDs + popularity,Ablation only,semantic_graph/{split}_queries.csv / _top10.csv,False,True
+adaptive_nocontrast,Graph + BPR-only IDs + popularity,Ablation only,semantic_graph/{split}_queries.csv / _top10.csv,False,True
+card_profile_no_ingredients,Full-card profile − ingredients,Ablation only,card_fields/card_no_ingredients/{split}_queries.csv / _top10.csv,False,True
+card_profile_no_tags,Full-card profile − tags,Ablation only,card_fields/card_no_tags/{split}_queries.csv / _top10.csv,False,True
+card_graph_no_ingredients,Card graph − ingredients,Ablation only,card_fields/card_no_ingredients/{split}_queries.csv / _top10.csv,False,True
+card_graph_no_tags,Card graph − tags,Ablation only,card_fields/card_no_tags/{split}_queries.csv / _top10.csv,False,True
+graph_model_no_ingredients,Graph model − ingredients,Ablation only,card_fields/card_no_ingredients/{split}_queries.csv / _top10.csv,False,True
+graph_model_no_tags,Graph model − tags,Ablation only,card_fields/card_no_tags/{split}_queries.csv / _top10.csv,False,True
